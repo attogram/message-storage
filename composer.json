@@ -1,0 +1,15 @@
+{
+    "name": "attogram/message-storage",
+    "description": "Simple Message Storage for PHP with SQLite database",
+    "homepage": "https://github.com/attogram/message-storage",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Attogram\\": "src/"
+        }
+    }
+}
