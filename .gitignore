@@ -1,4 +1,5 @@
 vendor/
+db/
 composer.lock
 .idea
 example.sqlite
